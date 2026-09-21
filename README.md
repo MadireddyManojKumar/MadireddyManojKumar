@@ -91,18 +91,6 @@ I'm a DevOps/SRE-focused engineer building expertise in cloud infrastructure, au
 
 ---
 
-### 📌 Featured Projects
-
-| Project | Description | Tech Stack |
-|---|---|---|
-| **[Project Name]** | One-line description of what it does and the problem it solves | Terraform, AWS, GitHub Actions |
-| **[Project Name]** | One-line description | Docker, Kubernetes, Prometheus |
-| **[Project Name]** | One-line description | Python, SageMaker, MLflow |
-
-*(Replace with your actual pinned repos — link each project name to its repo.)*
-
----
-
 ### 📫 Let's Connect
 
 <p align="center">
