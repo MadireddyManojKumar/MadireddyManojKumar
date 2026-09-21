@@ -112,4 +112,4 @@ I'm a DevOps/SRE-focused engineer building expertise in cloud infrastructure, au
 
 <p align="center"><i>⭐️ Open to Site Reliability Engineer, DevOps Engineer, and Production Engineer opportunities.</i></p>
 
-src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer"/>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=2E86C1&style=flat" alt="Profile views" /> &nbsp; <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=social" alt="GitHub followers" /> </p> <p align="center"><i>Thanks for stopping by — feel free to explore my pinned repos or reach out above 🚀</i></p> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer"/>
