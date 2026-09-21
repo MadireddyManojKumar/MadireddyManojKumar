@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Manoj 👋</h1>
+<h1 align="center">Hi, I'm Manoj Kumar, Madireddy 👋</h1>
 <h3 align="center">DevOps / Site Reliability Engineer | Cloud & Automation | AI/MLOps</h3>
 
 <p align="center">
