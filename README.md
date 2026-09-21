@@ -111,3 +111,5 @@ I'm a DevOps/SRE-focused engineer building expertise in cloud infrastructure, au
 </p>
 
 <p align="center"><i>⭐️ Open to Site Reliability Engineer, DevOps Engineer, and Production Engineer opportunities.</i></p>
+
+src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer"/>
