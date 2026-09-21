@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Manoj Kumar, Madireddy 👋</h1>
-<h3 align="center">DevOps / Site Reliability Engineer | Cloud & Automation | AI/MLOps</h3>
+<h3 align="center">DevOps / Site Reliability Engineer | Cloud & Automation | AI/MLOps | Senior software Engineer </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Building+resilient%2C+automated+infrastructure;Cloud+%7C+CI%2FCD+%7C+Kubernetes+%7C+Observability;Bridging+DevOps+and+AI%2FMLOps+workflows" alt="Typing SVG" />
